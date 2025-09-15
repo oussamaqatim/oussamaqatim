@@ -1,48 +1,73 @@
-# Hi there, I'm Qatim Oussama , I'm Happy to see you here! 👋
+<br clear="both">
+
+<h1 align="center">Hey There 👋,  I'm Qatim Oussama</h1>
+
+###
+
+<h3 align="center">🚀 Front-End Developer passionate about building web apps</h3>
+
+###
+
+<h4 align="center">
+### 💬 Ask me about:<br> **JavaScript & TypeScript** <br> **React** (Components, Hooks, State Management)  <br>**Backend with FastAPI** (Python 🐍 basics & building simple APIs)  <br>**C / C++** (problem solving & algorithms 🧠)</h4>
+
+###
+
+<h4 align="center">📫 How to reach me oussama.qtm@gmail.com</h4>
+
+###
+
+<h1 align="center">Connect with me:</h1>
+
+###
+
+<br clear="both">
+
 <div align="center">
- 
- [![oqatim's 42 stats](https://badge.mediaplus.ma/greenbinary/oqatim)](https://github.com/oussamaqatim)
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
 
-## Glad you're here
+###
 
-![](https://komarev.com/ghpvc/?username=oqatiml&color=blue)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamaqatim&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=oussamaqatim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-## I'm a computer science engineering student
+###
 
-- 👉 In few days, i will launch my personal website.
-- 🎓 I'm currently studying at 1337 School
-- 😍 Passionate about web development and new technologies.
-- 📱 I’m also interested in mobile development.
-- ⚽ I’m a football lover.
+<br clear="both">
 
-### Personal Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
 
-- Self-taught
-- Teamwork
+###
 
+<img src="https://raw.githubusercontent.com/oussamaqatim/oussamaqatim/output/snake.svg" alt="Snake animation" />
 
-```
-int main(int argc, char **argv)
-{
-    printf("I Love C Language");
-    return (0);
-}
+###
 
-OUT : 
-I ❤️ C Language
-```
+<p align="left"></p>
 
-### Badges
-
-<a href="http://www.github.com/oussamaqatim"><img src="https://github-readme-stats.vercel.app/api?username=oussamaqatim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oussamaqatim's GitHub stats" /></a>
-
-
-
-### Connect with me, visit my social media accounts with a click on the button at the bottom:
-
-[<img align="left" alt="oussamaqatim | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="oussamaqatim | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/oussama-qatim-26b416189
-[twitter]: https://twitter.com/SamaOous
+###
