@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="center">📫 How to reach me :     oussama.qtm@gmail.com</h4>
+<h4 align="center">📫 How to reach me oussama.qtm@gmail.com</h4>
 
 ###
 
@@ -29,11 +29,10 @@
   </a>
 </div>
 
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamaqatim&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamaqatim&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="120" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=oussamaqatim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
