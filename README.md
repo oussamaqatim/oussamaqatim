@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="center">📫 How to reach me oussama.qtm@gmail.com</h4>
+<h4 align="center">📫 How to reach me :     oussama.qtm@gmail.com</h4>
 
 ###
 
@@ -29,6 +29,7 @@
   </a>
 </div>
 
+
 ###
 
 <div align="center">
@@ -42,25 +43,25 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="40" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
