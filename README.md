@@ -8,8 +8,12 @@
 
 ###
 
-<h4 align="center">
+<img align="right" alt="coding" width="250px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<h4 align="left">
 ### 💬 Ask me about:<br> **JavaScript & TypeScript** <br> **React** (Components, Hooks, State Management)  <br>**Backend with FastAPI** (Python 🐍 basics & building simple APIs)  <br>**C / C++** (problem solving & algorithms 🧠)</h4>
+
+
 
 ###
 
@@ -17,25 +21,11 @@
 
 ###
 
-<h1 align="center">Connect with me:</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/oussama-qatim-26b416189/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamaqatim&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=oussamaqatim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
-</div>
+
 
 ###
 
@@ -67,10 +57,30 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/oussamaqatim/oussamaqatim/output/snake.svg" alt="Snake animation" />
+
+
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</p>
 
 ###
 
 <p align="left"></p>
 
 ###
+
+<h1 align="left">Connect with me:</h1>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/oussama-qatim-26b416189/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
